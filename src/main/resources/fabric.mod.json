@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "acerclient",
+  "version": "${version}",
+  "name": "AcerClient",
+  "description": "FPS booster + Crystal PvP + Sword PvP client",
+  "authors": ["Acer"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/acerclient/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.acer.client.AcerClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
