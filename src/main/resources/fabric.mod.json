@@ -4,9 +4,9 @@
   "version": "${version}",
   "name": "AcerClient",
   "description": "FPS booster + Crystal PvP + Sword PvP client",
-  "authors": ["Acer"],
+  "authors": ["SwaxtuMCYT"],
   "contact": {},
-  "license": "MIT",
+  "license": "8N41MA71K",
   "icon": "assets/acerclient/icon.png",
   "environment": "client",
   "entrypoints": {
